@@ -1,5 +1,6 @@
 # Functions in Python: Modulo Calculator
-
+## Name: Sudhindra.R
+## Reg no: 212224240164
 ## 🎯 Aim
 To write a Python program that defines a function which accepts two values and returns their **modulo** using the `%` operator.
 
@@ -11,9 +12,17 @@ To write a Python program that defines a function which accepts two values and r
 5. Call the `result` function with the user-provided values.
 
 ## 🧾 Program
-
-Add code Here
+```
+def result(a,b): 
+mod=a%b 
+print(f"modulo is {mod}") 
+a = int(input()) 
+b = int(input())
+```
 
 ## Output
+![image](https://github.com/user-attachments/assets/78b6f362-ddf7-4606-a962-29fee21b29a0)
 
 ## Result
+
+Thus ,the program is executed successfully.
